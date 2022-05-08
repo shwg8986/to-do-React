@@ -1,2 +1,2 @@
 # to-do-react
-Created with CodeSandbox
+I made a simple TO-DO application with CodeSandbox as React practicing.
