@@ -1,2 +1,2 @@
-# to-do-react
-I made a simple TO-DO application with CodeSandbox as React practicing.
+# to-do-React
+I made a simple TO-DO application with CodeSandbox as practicing React.
